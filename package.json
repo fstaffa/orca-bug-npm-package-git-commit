@@ -1,0 +1,14 @@
+{
+  "name": "orca-bug-npm-package-git-commit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "react": "https://github.com/tc39/test262#47ab262658cd97ae35c9a537808cac18fa4ab567"
+  },
+  "license": "ISC"
+}
